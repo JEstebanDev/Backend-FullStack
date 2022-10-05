@@ -1,0 +1,14 @@
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+G:\Documents\.NETProjects\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+G:\Documents\.NETProjects\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.exe
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.deps.json
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.runtimeconfig.json
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.runtimeconfig.dev.json
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.dll
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.pdb
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.csproj.AssemblyReference.cache
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.AssemblyInfoInputs.cache
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.AssemblyInfo.cs
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.csproj.CoreCompileInputs.cache
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.dll
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.pdb
+G:\Desktop\JALASOFT\Base64Project\base64-api\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.genruntimeconfig.cache

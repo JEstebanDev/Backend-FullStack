@@ -1,0 +1,14 @@
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.AssemblyInfo.cs
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.exe
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.deps.json
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.runtimeconfig.json
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.runtimeconfig.dev.json
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.dll
+G:\Documents\.NETProjects\SubstitutionPrinciple\bin\Debug\netcoreapp3.1\SubstitutionPrinciple.pdb
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.dll
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.pdb
+G:\Documents\.NETProjects\SubstitutionPrinciple\obj\Debug\netcoreapp3.1\SubstitutionPrinciple.genruntimeconfig.cache
