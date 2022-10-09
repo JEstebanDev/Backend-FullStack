@@ -1,0 +1,14 @@
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.exe
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.deps.json
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.json
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+G:\Documents\.NETProjects\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.genruntimeconfig.cache
