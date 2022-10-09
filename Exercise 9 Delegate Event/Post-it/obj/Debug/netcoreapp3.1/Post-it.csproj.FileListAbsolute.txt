@@ -1,0 +1,14 @@
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.exe
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.deps.json
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.runtimeconfig.json
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.runtimeconfig.dev.json
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.dll
+G:\Documents\.NETProjects\Post-it\bin\Debug\netcoreapp3.1\Post-it.pdb
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.AssemblyInfo.cs
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.dll
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.pdb
+G:\Documents\.NETProjects\Post-it\obj\Debug\netcoreapp3.1\Post-it.genruntimeconfig.cache
