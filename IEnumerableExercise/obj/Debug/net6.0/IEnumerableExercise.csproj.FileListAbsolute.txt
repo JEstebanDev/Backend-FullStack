@@ -1,0 +1,15 @@
+G:\Documents\.NETProjects\IEnumerableExercise\bin\Debug\net6.0\IEnumerableExercise.exe
+G:\Documents\.NETProjects\IEnumerableExercise\bin\Debug\net6.0\IEnumerableExercise.deps.json
+G:\Documents\.NETProjects\IEnumerableExercise\bin\Debug\net6.0\IEnumerableExercise.runtimeconfig.json
+G:\Documents\.NETProjects\IEnumerableExercise\bin\Debug\net6.0\IEnumerableExercise.dll
+G:\Documents\.NETProjects\IEnumerableExercise\bin\Debug\net6.0\IEnumerableExercise.pdb
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.AssemblyInfo.cs
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.dll
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\refint\IEnumerableExercise.dll
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.pdb
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\IEnumerableExercise.genruntimeconfig.cache
+G:\Documents\.NETProjects\IEnumerableExercise\obj\Debug\net6.0\ref\IEnumerableExercise.dll
