@@ -1,0 +1,15 @@
+G:\Documents\.NETProjects\AssemblyTask\bin\Debug\net6.0\AssemblyTask.exe
+G:\Documents\.NETProjects\AssemblyTask\bin\Debug\net6.0\AssemblyTask.deps.json
+G:\Documents\.NETProjects\AssemblyTask\bin\Debug\net6.0\AssemblyTask.runtimeconfig.json
+G:\Documents\.NETProjects\AssemblyTask\bin\Debug\net6.0\AssemblyTask.dll
+G:\Documents\.NETProjects\AssemblyTask\bin\Debug\net6.0\AssemblyTask.pdb
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.csproj.AssemblyReference.cache
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.AssemblyInfoInputs.cache
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.AssemblyInfo.cs
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.csproj.CoreCompileInputs.cache
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.dll
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\refint\AssemblyTask.dll
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.pdb
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\AssemblyTask.genruntimeconfig.cache
+G:\Documents\.NETProjects\AssemblyTask\obj\Debug\net6.0\ref\AssemblyTask.dll
